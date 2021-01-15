@@ -1,0 +1,6 @@
+/Users/adam/Desktop/DataSetProgramming/DataSetProgramming/bin/Debug/DataSetProgramming.exe
+/Users/adam/Desktop/DataSetProgramming/DataSetProgramming/bin/Debug/DataSetProgramming.pdb
+/Users/adam/Desktop/DataSetProgramming/DataSetProgramming/obj/Debug/DataSetProgramming.csprojAssemblyReference.cache
+/Users/adam/Desktop/DataSetProgramming/DataSetProgramming/obj/Debug/DataSetProgramming.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/DataSetProgramming/DataSetProgramming/obj/Debug/DataSetProgramming.exe
+/Users/adam/Desktop/DataSetProgramming/DataSetProgramming/obj/Debug/DataSetProgramming.pdb
